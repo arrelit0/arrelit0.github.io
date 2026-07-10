@@ -1,0 +1,6 @@
+{"ts":"2026-07-10T20:38:56.730Z","cmd":"viewport","args":"1440x900","origin":"about:blank","durationMs":2,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-10T20:38:59.747Z","cmd":"goto","args":"https://arrelit0.github.io/?v=bugcheck","origin":"https://arrelit0.github.io/?v=bugcheck","durationMs":2921,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-10T20:39:00.416Z","cmd":"wait","args":"--networkidle","origin":"https://arrelit0.github.io/?v=bugcheck","durationMs":565,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-10T20:39:00.507Z","cmd":"js","args":"(() => { const i = document.querySelector('img[src*=\"cut-2\"]'); return i ? (i.complete && i.naturalWidth > 0 ? 'YES ' + i.naturalWidth + 'x' + i.naturalHeight : 'BROKEN') : 'IMG TAG MISSING'; })()","origin":"https://arrelit0.github.io/?v=bugcheck","durationMs":2,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-10T20:39:00.650Z","cmd":"click","args":".hero .btn-line","origin":"https://arrelit0.github.io/?v=bugcheck#tjanster","durationMs":58,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-10T20:39:00.740Z","cmd":"js","args":"window.scrollY","origin":"https://arrelit0.github.io/?v=bugcheck#tjanster","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
